@@ -1,0 +1,9 @@
+// The Lord of the Rings: The Two Towers
+
+yönetmen: Peter Jackson
+kategori: fantastik
+tarih: 20.12.2002
+
+oyuncular: Elijah Wood, Ian McKellen, Orlando Bloom, Viggo Mortensen, Sean Astin
+
+konusu:Yüzüklerin Efendisi: İki Kule'de, Yüzük Kardeşliği üyelerinin her birinin, kardeşlik bozulduktan sonra başlarına gelenler anlatılıyor. Kahramanlarımız, gruplar halinde Orta Dünya'nın en tehlikeli yerlerinde maceralar yaşayacaklar, yeni kavimler ve çoktan unutulmuş medeniyetlerle tanışacaklar.
